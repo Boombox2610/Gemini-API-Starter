@@ -57,4 +57,10 @@ The Lorem ipsum text was thought to be random words until the 1990s, when its so
                                                                                                     * **New Product and Service Innovations:** Drive creativity and foster innovation.
                                                                                                     * **Improved Quality of Life:** Assist in healthcare, transportation, and other essential services.</string>
 
+    •<string name="speak_prompt">Speak prompt</string>
+    <string name="send_prompt">Send prompt</string>
+    <string name="speech_prompt_message">Speak now...</string>
+    <string name="permission_denied_speech">Permission denied. Speech input cannot be used.</string>
+    <string name="speech_not_available">Speech recognition is not available on this device.</string>
+    <string name="audio_permission_required">Audio permission is required to use speech input.</string>
 </resources>
